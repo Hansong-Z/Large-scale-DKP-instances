@@ -1,5 +1,5 @@
-# DKPinstances
-Large-scale instances of D{0-1}KP
+# data Set III
+Large-scale instances of D{0-1}KP  
 This data set includes 40 instances, which
 - are divided into four types: uncorrelated instances (UDKP), weakly correlated instances (WDKP), strongly correlated instances (SDKP) and inverse correlated instances (IDKP)
 - each type consists of 10 instances
